@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+:root{
+  --oscar-bg:#0b0d0f;
+  --oscar-ink:#e7ecef;
+  --oscar-accent:#66d13c;   
+  --oscar-accent-2:#8ef043; 
+  --oscar-muted:#1a1e23;
+}
