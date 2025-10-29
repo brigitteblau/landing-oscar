@@ -7,3 +7,6 @@
   --oscar-accent-2:#8ef043; 
   --oscar-muted:#1a1e23;
 }
+body{
+  background-color: var(--oscar-bg);
+}
